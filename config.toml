@@ -4,11 +4,11 @@ title = "fredsilvas.tk"
 theme = "hugo-initio"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    name = "Fred Silva"
+    description = "Devops | Sysadmin | Cloud"
+    #email = "anthony.russel42@example.com"
+    #phone = "+234 23 9873237"
+    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
     avatar = "images/guy.jpg"
     avatarclass = "circle"
@@ -26,8 +26,8 @@ theme = "hugo-initio"
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
