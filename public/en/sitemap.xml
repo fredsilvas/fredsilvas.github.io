@@ -2,68 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/page/about/</loc>
-  </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/author/</loc>
+    <loc>https://fredsilvas.tk/en/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/pt-br/author/"
+                href="https://fredsilvas.tk/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/author/"
+                href="https://fredsilvas.tk/en/author/"
                 />
   </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/categories/</loc>
+    <loc>https://fredsilvas.tk/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/pt-br/categories/"
+                href="https://fredsilvas.tk/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/categories/"
+                href="https://fredsilvas.tk/en/categories/"
                 />
   </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/</loc>
+    <loc>https://fredsilvas.tk/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/pt-br/"
+                href="https://fredsilvas.tk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/"
+                href="https://fredsilvas.tk/en/"
                 />
   </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/page/</loc>
-  </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/series/</loc>
+    <loc>https://fredsilvas.tk/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/pt-br/series/"
+                href="https://fredsilvas.tk/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/series/"
+                href="https://fredsilvas.tk/en/series/"
                 />
   </url><url>
-    <loc>https://amazing-heyrovsky-12eacd.netlify.app/tags/</loc>
+    <loc>https://fredsilvas.tk/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/pt-br/tags/"
+                href="https://fredsilvas.tk/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://amazing-heyrovsky-12eacd.netlify.app/tags/"
+                href="https://fredsilvas.tk/en/tags/"
                 />
   </url>
 </urlset>
