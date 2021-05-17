@@ -38,7 +38,7 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
+  algolia_search    = false
   algolia_appId     = "15JRYQ6AVR"
   algolia_apiKey    = "b171ba7c30ede7d54c954f918bd152af"
   algolia_indexName = "fredsilvas"
