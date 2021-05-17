@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fredsilvas.tk</title>
-    <link>https://fredsilvas.tk/en/</link>
+    <link>http://fredsilvas.tk/en/</link>
     <description>Recent content on fredsilvas.tk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 13:18:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 May 2021 21:16:02 -0300</lastBuildDate>
     
-        <atom:link href="https://fredsilvas.tk/en/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://fredsilvas.tk/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

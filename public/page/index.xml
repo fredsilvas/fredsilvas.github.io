@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on fredsilvas.tk</title>
-    <link>https://fredsilvas.tk/page/</link>
+    <link>http://fredsilvas.tk/page/</link>
     <description>Recent content in Pages on fredsilvas.tk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 13:18:45 +0100</lastBuildDate><atom:link href="https://fredsilvas.tk/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 21:15:51 -0300</lastBuildDate><atom:link href="http://fredsilvas.tk/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre</title>
-      <link>https://fredsilvas.tk/page/about/</link>
-      <pubDate>Wed, 01 Nov 2017 13:18:45 +0100</pubDate>
+      <link>http://fredsilvas.tk/page/about/</link>
+      <pubDate>Sun, 16 May 2021 21:15:51 -0300</pubDate>
       
-      <guid>https://fredsilvas.tk/page/about/</guid>
+      <guid>http://fredsilvas.tk/page/about/</guid>
       <description>Bilberry is a premium theme for the Hugo Static Website Builder.
 It is full of little nice features, such as:
  built-in integration for the wonderful algolia search built-in integration for the powerful disqus comments gravatar and custom image integration for the header keyboard shortcut for the search (press the s key, type something and hit enter or esc) responsive design - optimized for desktop and mobile devices full internationalization (i18n) support (en, de, fr, ru, es out of the box!</description>
