@@ -1,106 +1,113 @@
-baseURL = "https://fredsilvas.tk/"
-languageCode = "en"
+baseurl = "https://fredsilvas.tk"
+DefaultContentLanguage = "br"
+#DefaultContentLanguage = "ja"
 title = "fredsilvas.tk"
-theme = "hugo-initio"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = truehugo
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
 
-[params]
-    name = "Fred Silva"
-    description = "Devops | Sysadmin | Cloud"
-    #email = "anthony.russel42@example.com"
-    #phone = "+234 23 9873237"
-    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
-    avatarclass = "circle"
-    background = ""
-    banner = "images/bg_head.jpg"
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Devops | Sysadmin | Cloud"
+  mainSections = ["post","posts"]
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-    showSubheader = true
-    showServices = true
-    showRecentWorks = true
-    showDownloads = true
-    showClients = true
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
 
-    showFooterContact = true
-    showFooterFollowMe = true
-    showFooterTextWidget = false
-    showFooterFormWidget = false
+[Author]
+  name = "Fred Silva"
+  website = "fredsilvas.tk"
+  #email = "youremail@domain.com"
+  #facebook = "username"
+  github = "fredsilvas"
+  gitlab = "fredsilvas"
+  #bitbucket = "username"
+  twitter = "_fredsilvas"
+  #reddit = "username"
+  linkedin = "andrefredericosilva"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
 
 [[menu.main]]
-    name = "home"
-    url = "/"
+    name = "Blog"
+    url = ""
     weight = 1
+
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
-    weight = 5
+    name = "About"
+    url = "page/about/"
+    weight = 3
 
-[params.disqus]
-    site = "hugo-initio-site.disqus.com"
+[[menu.main]]
+    identifier = "samples"
+    name = "Samples"
+    weight = 2
 
-[params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
+[[menu.main]]
+    parent = "samples"
+    name = "Big Image Sample"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
 
-[params.google.analytics]
-    trackerID = "GA-000000000-0"
+[[menu.main]]
+    parent = "samples"
+    name = "Math Sample"
+    url = "post/2017-03-05-math-sample"
+    weight = 2
 
-[[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/nickname"
-    icon = "fab fa-facebook-square"
-    footer = true
-    sharethis = true
-    network = "facebook"
-[[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/nickname"
-    icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "google+"
-	url = "https://plus.google.com/+nickname"
-    icon = "fab fa-google-plus-square"
-    footer = false
-    sharethis = true
-    network = "googleplus"
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
-    icon = "fab fa-linkedin"
-    footer = false
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-	title = "tumblr"
-	url = "https://nickname.tumblr.com"
-    icon = "fab fa-tumblr-square"
-    footer = false
-    sharethis = false
-    network = "tumblr"
-[[params.social]]
-	title = "github"
-	url = "https://github.com/nickname"
-    icon = "fab fa-github"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
-	title = "email"
-	url = "mailto:some.email@somewhere.com"
-    icon = "fas fa-envelope-square"
-    footer = false
-    sharethis = true
-    network = "email"
+[[menu.main]]
+    parent = "samples"
+    name = "Code Sample"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

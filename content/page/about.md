@@ -1,24 +1,16 @@
 ---
-title: "Sobre"
-date: 2021-05-16T21:15:51-03:00
-excludeFromTopNav: false
-showDate: false
+title: About me
+subtitle: Why you'd want to go on a date with me
+comments: false
 ---
-Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
 
-It is full of little nice features, such as:
+My name is Inigo Montoya. I have the following qualities:
 
-- built-in integration for the wonderful [algolia search](https://algolia.com)
-- built-in integration for the powerful [disqus comments](https://disqus.com)
-- gravatar and custom image integration for the header
-- keyboard shortcut for the search (press the `s` key, type something and hit `enter` or `esc`)
-- responsive design - optimized for desktop and mobile devices
-- full internationalization (i18n) support (en, de, fr, ru, es out of the box!)
-- full multi-language support
-- custom post types (`article`, `audio`, `code`, `gallery`, `link`, `page`, `picture`, `quote`, `video`)
-    - easy configuration to add more according to your needs
+- I rock a great mustache
+- I'm extremely loyal to my family
 
+What else do you need?
 
-*This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
+### my history
 
-**[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
