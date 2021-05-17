@@ -2,91 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://fredsilvas.tk/en/page/about/</loc>
+    <loc>http://fredsilvas.tk/page/about/</loc>
+    <lastmod>2021-05-16T21:16:02-03:00</lastmod>
+  </url><url>
+    <loc>http://fredsilvas.tk/</loc>
     <lastmod>2021-05-16T21:16:02-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://fredsilvas.tk/page/about/"
+                href="http://fredsilvas.tk/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://fredsilvas.tk/en/page/about/"
-                />
-  </url><url>
-    <loc>http://fredsilvas.tk/en/</loc>
-    <lastmod>2021-05-16T21:16:02-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
                 href="http://fredsilvas.tk/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://fredsilvas.tk/en/"
-                />
   </url><url>
-    <loc>http://fredsilvas.tk/en/page/</loc>
+    <loc>http://fredsilvas.tk/page/</loc>
     <lastmod>2021-05-16T21:16:02-03:00</lastmod>
+  </url><url>
+    <loc>http://fredsilvas.tk/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://fredsilvas.tk/page/"
+                href="http://fredsilvas.tk/pt-br/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://fredsilvas.tk/en/page/"
-                />
-  </url><url>
-    <loc>http://fredsilvas.tk/en/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
                 href="http://fredsilvas.tk/author/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://fredsilvas.tk/en/author/"
-                />
   </url><url>
-    <loc>http://fredsilvas.tk/en/categories/</loc>
+    <loc>http://fredsilvas.tk/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="http://fredsilvas.tk/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="http://fredsilvas.tk/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://fredsilvas.tk/en/categories/"
-                />
   </url><url>
-    <loc>http://fredsilvas.tk/en/series/</loc>
+    <loc>http://fredsilvas.tk/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="http://fredsilvas.tk/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="http://fredsilvas.tk/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://fredsilvas.tk/en/series/"
-                />
   </url><url>
-    <loc>http://fredsilvas.tk/en/tags/</loc>
+    <loc>http://fredsilvas.tk/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://fredsilvas.tk/tags/"
+                href="http://fredsilvas.tk/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://fredsilvas.tk/en/tags/"
+                href="http://fredsilvas.tk/tags/"
                 />
   </url>
 </urlset>
