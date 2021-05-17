@@ -2,6 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fredsilvas.tk/en/article/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/article/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/author/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/author/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/author/fred-silva/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/author/fred-silva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/author/fred-silva/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/tags/hello-word/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/tags/hello-word/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/tags/hello-word/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/tags/say-thanks/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/tags/say-thanks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/tags/say-thanks/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/tags/support/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/tags/support/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/tags/support/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/article/hello-word/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/article/hello-word/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/article/hello-word/"
+                />
+  </url><url>
+    <loc>https://fredsilvas.tk/en/tags/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/tags/"
+                />
+  </url><url>
     <loc>https://fredsilvas.tk/en/page/about/</loc>
     <lastmod>2021-05-17T16:40:55-03:00</lastmod>
     <xhtml:link
@@ -15,19 +132,6 @@
                 href="https://fredsilvas.tk/en/page/about/"
                 />
   </url><url>
-    <loc>https://fredsilvas.tk/en/</loc>
-    <lastmod>2021-05-17T16:40:55-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://fredsilvas.tk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fredsilvas.tk/en/"
-                />
-  </url><url>
     <loc>https://fredsilvas.tk/en/page/</loc>
     <lastmod>2021-05-17T16:40:55-03:00</lastmod>
     <xhtml:link
@@ -39,18 +143,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fredsilvas.tk/en/page/"
-                />
-  </url><url>
-    <loc>https://fredsilvas.tk/en/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://fredsilvas.tk/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fredsilvas.tk/en/author/"
                 />
   </url><url>
     <loc>https://fredsilvas.tk/en/categories/</loc>
@@ -75,18 +167,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fredsilvas.tk/en/series/"
-                />
-  </url><url>
-    <loc>https://fredsilvas.tk/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://fredsilvas.tk/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fredsilvas.tk/en/tags/"
                 />
   </url>
 </urlset>
