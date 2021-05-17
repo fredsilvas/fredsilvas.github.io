@@ -1,16 +1,23 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
-comments: false
+title: "Sobre"
+date: 2021-05-17T16:40:55-03:00
+excludeFromTopNav: false
+showDate: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é André Frederico, mas você pode me chamar de Fred Silva. ;)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Sou Engenheiro de Computação, especializado em Redes de Computadores com mais de 15 anos de experiência em TI. Durante todo esse tempo, acumulei algumas competências diversificadas, sempre buscando o sucesso nos negócios. Tenho estudado e me aprimorado nos últimos 2 anos para migrar para a carreira DevOps / SRE.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Algumas de minhas experiências:
+- Administração em nuvem: Amazon Web Service (AWS);
+- Infraestrutura como Código: Terraform, Packer;
+- Migração de aplicativos para Cloud;
+- Gerenciamento de datacenter;
+- Virtualização: VMWare;
+- Sistemas operacionais: Linux, Microsoft;
+- Serviços relacionados à Web: DNS, Varnish, Apache, NGINX, HAproxy;
+- Serviços Relacionados ao Usuário: Controle de Domínio, Administração de Usuários;
+- Serviços relacionados à segurança: Firewall, Proxy, Palo Alto Equipment;
+- Administração de rede: Wired, Wireless, VoIP;
+- etc;
