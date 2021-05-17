@@ -3,23 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://fredsilvas.tk/page/about/</loc>
-    <lastmod>2021-05-16T21:16:02-03:00</lastmod>
-  </url><url>
-    <loc>http://fredsilvas.tk/</loc>
-    <lastmod>2021-05-16T21:16:02-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://fredsilvas.tk/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://fredsilvas.tk/"
-                />
-  </url><url>
-    <loc>http://fredsilvas.tk/page/</loc>
-    <lastmod>2021-05-16T21:16:02-03:00</lastmod>
   </url><url>
     <loc>http://fredsilvas.tk/author/</loc>
     <xhtml:link
@@ -44,6 +27,20 @@
                 hreflang="en"
                 href="http://fredsilvas.tk/categories/"
                 />
+  </url><url>
+    <loc>http://fredsilvas.tk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://fredsilvas.tk/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://fredsilvas.tk/"
+                />
+  </url><url>
+    <loc>http://fredsilvas.tk/page/</loc>
   </url><url>
     <loc>http://fredsilvas.tk/series/</loc>
     <xhtml:link
