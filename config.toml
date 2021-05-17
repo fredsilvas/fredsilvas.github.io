@@ -1,5 +1,5 @@
 title = "fredsilvas.tk"
-baseURL = "https://fredsilvas.tk/"
+baseURL = "http://fredsilvas.tk/"
 theme = "bilberry-hugo-theme"
 
 # Generate the robots.txt file for SEO
@@ -9,7 +9,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "pt-br"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = ""
+googleAnalytics = "G-8QFXXHYJ9M"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = ""
