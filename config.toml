@@ -12,7 +12,7 @@ DefaultContentLanguage = "pt-br"
 googleAnalytics = "259018659"
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = ""
+disqusShortname = "fredsilvas-tk"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
@@ -38,7 +38,7 @@ disqusShortname = ""
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = false
+  algolia_search    = true
   algolia_appId     = "15JRYQ6AVR"
   algolia_apiKey    = "b171ba7c30ede7d54c954f918bd152af"
   algolia_indexName = "fredsilvas"
