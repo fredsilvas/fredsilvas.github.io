@@ -2,9 +2,9 @@
 title: "Hello Word"
 date: 2021-05-17T17:01:27-03:00
 
-tags: [Hello Word', 'Support', 'Say Thanks!']
+tags: [Hello', 'Post', 'First']
 author: "Fred Silva"
-noSummary: true
+noSummary: false
 
 resizeImages: false
 ---

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on fredsilvas.tk</title>
+    <link>https://fredsilvas.tk/en/tags/first/</link>
+    <description>Recent content in First on fredsilvas.tk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 May 2021 17:01:27 -0300</lastBuildDate><atom:link href="https://fredsilvas.tk/en/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Word</title>
+      <link>https://fredsilvas.tk/en/article/hello-word/</link>
+      <pubDate>Mon, 17 May 2021 17:01:27 -0300</pubDate>
+      
+      <guid>https://fredsilvas.tk/en/article/hello-word/</guid>
+      <description>Hello Word ;)
+This is the first post of this blog project&amp;hellip;. and as it could not be different, we must faithfully follow the laws of computing.
+echo &amp;quot;Hello Word&amp;quot; I intend to add some technical articles, and maybe not non-technical in this space &amp;hellip; Let&amp;rsquo;s see what happens &amp;hellip;.
+See ya!</description>
+    </item>
+    
+  </channel>
+</rss>

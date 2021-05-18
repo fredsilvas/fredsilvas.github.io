@@ -28,6 +28,19 @@
                 href="https://fredsilvas.tk/author/"
                 />
   </url><url>
+    <loc>https://fredsilvas.tk/tags/first/</loc>
+    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fredsilvas.tk/en/tags/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://fredsilvas.tk/tags/first/"
+                />
+  </url><url>
     <loc>https://fredsilvas.tk/author/fred-silva/</loc>
     <lastmod>2021-05-17T17:01:27-03:00</lastmod>
     <xhtml:link
@@ -67,43 +80,30 @@
                 href="https://fredsilvas.tk/article/hello-word/"
                 />
   </url><url>
-    <loc>https://fredsilvas.tk/tags/hello-word/</loc>
+    <loc>https://fredsilvas.tk/tags/hello/</loc>
     <lastmod>2021-05-17T17:01:27-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fredsilvas.tk/en/tags/hello-word/"
+                href="https://fredsilvas.tk/en/tags/hello/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://fredsilvas.tk/tags/hello-word/"
+                href="https://fredsilvas.tk/tags/hello/"
                 />
   </url><url>
-    <loc>https://fredsilvas.tk/tags/say-thanks/</loc>
+    <loc>https://fredsilvas.tk/tags/post/</loc>
     <lastmod>2021-05-17T17:01:27-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fredsilvas.tk/en/tags/say-thanks/"
+                href="https://fredsilvas.tk/en/tags/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://fredsilvas.tk/tags/say-thanks/"
-                />
-  </url><url>
-    <loc>https://fredsilvas.tk/tags/support/</loc>
-    <lastmod>2021-05-17T17:01:27-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fredsilvas.tk/en/tags/support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://fredsilvas.tk/tags/support/"
+                href="https://fredsilvas.tk/tags/post/"
                 />
   </url><url>
     <loc>https://fredsilvas.tk/tags/</loc>
