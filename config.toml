@@ -9,7 +9,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "pt-br"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = "G-H36SHSKQZY"
+googleAnalytics = "UA-197622966-1"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "fredsilvas-tk"
